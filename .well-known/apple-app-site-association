@@ -3,14 +3,8 @@
     "apps":[],
     "details":[
       {
-        "appIDs":[
-          "875H9A88GP.com.twist.twist"
-        ],
-        "components":[
-          {
-             "/":"*"
-          }
-        ]
+        "appIDs": "875H9A88GP.com.twist.twist",
+        "paths":[ "*" ]
       }
     ]
   }
