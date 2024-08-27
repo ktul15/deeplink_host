@@ -6,9 +6,7 @@
                 "appIDs": [
                     "875H9A88GP.com.twist.tales"
                 ],
-                "paths": [
-                    "*"
-                ],
+                "paths": ["*", "/"],
                 "components": [
                     {
                         "/": "/*"
