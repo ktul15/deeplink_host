@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.twist.twist",
+    "package_name": "com.example.todo_list_poc_task",
     "sha256_cert_fingerprints":
     ["13:CA:11:6C:68:85:69:B9:35:E8:ED:22:79:4E:AD:BE:60:DD:0F:EC:46:BD:8A:6C:6B:3C:B6:26:CE:BC:A7:45", "FB:0B:24:C9:09:9F:7E:4F:64:CD:02:1E:76:E1:94:2A:F4:BD:13:BA:D8:F1:D8:07:52:1C:1B:A5:BB:6B:F7:28", "68:BB:49:E0:8F:59:84:B8:3D:52:8D:D2:4A:50:91:86:8F:47:DF:4E:64:3D:B8:B0:74:E4:BB:53:3D:7B:99:44"]
   }
