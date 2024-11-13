@@ -1,9 +1,9 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
-    "namespace": "android_app",
-    "package_name": "com.twist.twist",
-    "sha256_cert_fingerprints":
-    ["13:CA:11:6C:68:85:69:B9:35:E8:ED:22:79:4E:AD:BE:60:DD:0F:EC:46:BD:8A:6C:6B:3C:B6:26:CE:BC:A7:45", "FB:0B:24:C9:09:9F:7E:4F:64:CD:02:1E:76:E1:94:2A:F4:BD:13:BA:D8:F1:D8:07:52:1C:1B:A5:BB:6B:F7:28", "68:BB:49:E0:8F:59:84:B8:3D:52:8D:D2:4A:50:91:86:8F:47:DF:4E:64:3D:B8:B0:74:E4:BB:53:3D:7B:99:44"]
+      "namespace": "android_app",
+          "package_name": "com.megaboxis",
+          "sha256_cert_fingerprints":
+          ["5C:DD:55:66:99:FA:58:3F:0C:DF:7F:F5:1D:CD:22:5D:19:30:E0:0B:3F:A1:8F:28:F0:82:4C:9F:08:2F:8D:2D", "28:F2:FF:BD:A6:57:4A:E3:D5:07:83:A2:EE:88:2D:CC:BA:8A:42:63:70:CB:F4:44:7B:FA:C5:CA:81:98:3D:5A"]
   }
 }]
